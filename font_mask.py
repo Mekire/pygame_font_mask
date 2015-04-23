@@ -49,21 +49,7 @@ def main():
     App().main_loop()
     pg.quit()
     sys.exit()
-                
+
 
 if __name__ == "__main__":
     main()
-            
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-    
-
